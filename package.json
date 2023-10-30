@@ -1,0 +1,24 @@
+{
+  "name": "appap_api",
+  "version": "1.0.0",
+  "description": "API para comunicação com arduino para o projeto do Ceará científico, Aquicultura de Precisão para Auxilio de Pequenos Produtores",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamUchoa/APAPP-API.git"
+  },
+  "keywords": [
+    "Arduino",
+    "Aquicultura-de-precisao",
+    "API"
+  ],
+  "author": "SamUchoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamUchoa/APAPP-API/issues"
+  },
+  "homepage": "https://github.com/SamUchoa/APAPP-API#readme"
+}
